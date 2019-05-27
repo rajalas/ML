@@ -1,49 +1,49 @@
-### Architectural Basics
+## Architectural Basics
 
-## How many layers
+# How many layers
 
-## 3x3 Convolutions
+# 3x3 Convolutions
 
-## MaxPooling
+# MaxPooling
 
-## Position of MaxPooling
+# Position of MaxPooling
 
-## The distance of MaxPooling from Prediction
+# The distance of MaxPooling from Prediction
 
-## Concept of Transition Layers,
+# Concept of Transition Layers,
 
-## Position of Transition Layer
+# Position of Transition Layer
 
-## 1x1 Convolutions
+# 1x1 Convolutions
 
-## Receptive Field
+# Receptive Field
 
-## SoftMax
+# SoftMax
 
-## When to add validation checks
+# When to add validation checks
 
-## Kernels and how do we decide the number of kernels
+# Kernels and how do we decide the number of kernels
 
-## Batch Normalization
+# Batch Normalization
 
-## Image Normalization
+# Image Normalization
 
-## The distance of Batch Normalization from Prediction
+# The distance of Batch Normalization from Prediction
 
-## DropOut
+# DropOut
 If your model is overfitting then add the dropout, have added dropout in my second model to overcome the overfitting
 
-## When do we introduce DropOut, or when do we know we have some overfitting
+# When do we introduce DropOut, or when do we know we have some overfitting
 
 
-## Learning Rate
+# Learning Rate
 
-## Number of Epochs and when to increase them
+# Number of Epochs and when to increase them
 To tarain the model more increase the number of epochs, increased the no of epochs to 20 in  my third model
 
-## LR schedule and concept behind it
+# LR schedule and concept behind it
 
-## Batch Size, and effects of batch size
+# Batch Size, and effects of batch size
 Increase the batch size once you are close to your target accuracy to increase the compution of your model, increased the batch size to 64 in my fourth model
 
 
